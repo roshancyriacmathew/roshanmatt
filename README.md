@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoshanCyriacMathew
-- 👀 I’m a content creator at - The AI & DS Channel. 
+- 👀 I’m a content creator at - The AI & DS Channel (Youtube). 
 - 📽️ You can find my codes that I explain on my youtube channel. 
 - 📹 You can check out my youtube channel from the following link.
 - https://www.youtube.com/c/TheAIDSChannel/videos
